@@ -1,0 +1,43 @@
+.col {
+    background-color: #181818;
+    width: 200px;
+    height: 300px;
+    margin: 8px;
+    position:absolute
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+body {
+    background-color: #212124;
+
+}
+.col1 {
+    left:100px;
+    background-color: antiquewhite;
+    top: 50px;
+}
+
+.col2 {
+    left:325px;
+    background-color: rgb(255, 191, 108);
+    top: 50px;
+
+}
+
+.col3 {
+    left:550px;
+    background-color: rgb(60, 97, 143);
+    top: 50px;
+}
+
+.col4 {
+    left:780px;
+    background-color: antiquewhite;
+    top: 50px;
+
+}
