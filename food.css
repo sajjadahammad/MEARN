@@ -14,11 +14,6 @@ body {
     background-color: #212124;
 } 
 
-.flex-container {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-}
 
 .f1 {
     background-color: burlywood;
